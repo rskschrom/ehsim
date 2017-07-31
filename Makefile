@@ -5,7 +5,7 @@ FC = gfortran
 FCFLAGS = 
 FLIBS = 
 LPATH = 
-OBJS = numerical.o
+OBJS = constants.o numerical.o
 MAIN = ehsim.f90
 
 # main program instructions
